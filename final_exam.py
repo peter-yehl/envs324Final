@@ -1355,7 +1355,7 @@ exam3_flashcards = [
             "A wind current flowing from the ocean to the adjacent coast that occurs during the morning. The land breeze often concentrates airborne pollution over coastal cities.",
             "A wind current flowing from land to the adjacent ocean that occurs during the evening. The land breeze often concentrates airborne pollution over coastal cities."
         ],
-        "correct": {"A wind current flowing from land to the adjacent ocean that occurs during the evening. The land breeze often concentrates airborne pollution over coastal cities."}
+        "correct": {"A wind current flowing from land to the adjacent ocean that occurs during the evening. The land breeze often prevents airborne pollution from concentrating over coastal cities."}
     },
     {
         "question": "Spent nuclear fuel (i.e., nuclear waste) in the United States is stored in two stages. Spent fuel rods are temporarily stored in ______ and then transferred to ______.",
